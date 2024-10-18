@@ -18,6 +18,7 @@ nmap <silent> <C-k> :wincmd h<CR>
 nmap <silent> <C-k> :wincmd j<CR>
 
 set number
+set relativenumber
 set nocompatible
 filetype on
 syntax on 
