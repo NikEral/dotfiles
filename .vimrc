@@ -22,3 +22,4 @@ set nocompatible
 filetype on
 syntax on 
 let g:airline#extensions#tabline#enabled = 1
+nnoremap <c-p> :NERDTreeToggle<CR>
